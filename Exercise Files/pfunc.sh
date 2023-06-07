@@ -12,7 +12,7 @@ function ShowFiles () {
   for FILE in $FILES
   do
       echo "FILE #$COUNT = $FILE"
-      ((COUNT++))
+      ((COUNT++)) 
   done
 }
 
