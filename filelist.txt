@@ -1,0 +1,12 @@
+CONTRIBUTING.md
+Exercise Files
+LICENSE
+NOTICE
+README.md
+commands.md
+filelist.txt
+myfiles.tar
+myfiles.tar.gz
+unpack1
+unpack2
+unpack3
